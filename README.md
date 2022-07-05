@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryzhon
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and vue.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flask,typescript,nestjs,react
+- 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me ...
 
 <!---
